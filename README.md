@@ -46,3 +46,6 @@ https://github.com/topics/awesome-list
 https://up-for-grabs.net/  
 https://github.com/firstcontributions/first-contributions  
 
+## git & github 강의 추천
+https://nomadcoders.co/git-for-beginners  
+https://codingapple.com/course/git-and-github/  
